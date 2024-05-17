@@ -1,6 +1,3 @@
-# App code based on: https://github.com/petergro-hub/ComicInpainting
-# Model based on: https://github.com/saic-mdal/lama
-
 import numpy as np
 import pandas as pd
 import streamlit as st
